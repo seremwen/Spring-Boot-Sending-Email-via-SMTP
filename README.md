@@ -18,7 +18,7 @@ Follow these steps to run the Spring Boot app for sending emails via SMTP:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/seremwen/spring-boot-smtp-email.git](https://github.com/seremwen/Spring-Boot-Sending-Email-via-SMTP.git)
+    git clone https://github.com/seremwen/Spring-Boot-Sending-Email-via-SMTP.git
     cd Spring-Boot-Sending-Email-via-SMTP
     ```
 
